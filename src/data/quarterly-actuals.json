@@ -1,0 +1,114 @@
+[
+  {
+    "quarter": "Q3 2023",
+    "totalBookings": 1147000,
+    "totalQuota": 1625000,
+    "attainment": 71,
+    "byRegion": {
+      "NA": 894000,
+      "EMEA": 131000,
+      "APAC": 122000
+    },
+    "bySegment": {
+      "SMB": 262000,
+      "Mid-Market": 276000,
+      "Enterprise": 609000
+    }
+  },
+  {
+    "quarter": "Q4 2023",
+    "totalBookings": 1545000,
+    "totalQuota": 1625000,
+    "attainment": 95,
+    "byRegion": {
+      "NA": 727000,
+      "EMEA": 446000,
+      "APAC": 372000
+    },
+    "bySegment": {
+      "SMB": 82000,
+      "Mid-Market": 421000,
+      "Enterprise": 1042000
+    }
+  },
+  {
+    "quarter": "Q1 2024",
+    "totalBookings": 1517000,
+    "totalQuota": 1625000,
+    "attainment": 93,
+    "byRegion": {
+      "NA": 946000,
+      "EMEA": 141000,
+      "APAC": 430000
+    },
+    "bySegment": {
+      "SMB": 103000,
+      "Mid-Market": 260000,
+      "Enterprise": 1154000
+    }
+  },
+  {
+    "quarter": "Q2 2024",
+    "totalBookings": 1241000,
+    "totalQuota": 1625000,
+    "attainment": 76,
+    "byRegion": {
+      "NA": 702000,
+      "EMEA": 364000,
+      "APAC": 175000
+    },
+    "bySegment": {
+      "SMB": 256000,
+      "Mid-Market": 259000,
+      "Enterprise": 726000
+    }
+  },
+  {
+    "quarter": "Q3 2024",
+    "totalBookings": 1622000,
+    "totalQuota": 1625000,
+    "attainment": 100,
+    "byRegion": {
+      "NA": 1204000,
+      "EMEA": 121000,
+      "APAC": 297000
+    },
+    "bySegment": {
+      "SMB": 304000,
+      "Mid-Market": 451000,
+      "Enterprise": 867000
+    }
+  },
+  {
+    "quarter": "Q4 2024",
+    "totalBookings": 1707000,
+    "totalQuota": 1625000,
+    "attainment": 105,
+    "byRegion": {
+      "NA": 1099000,
+      "EMEA": 274000,
+      "APAC": 334000
+    },
+    "bySegment": {
+      "SMB": 223000,
+      "Mid-Market": 327000,
+      "Enterprise": 1157000
+    }
+  },
+  {
+    "quarter": "Q1 2025",
+    "totalBookings": 1384000,
+    "totalQuota": 1625000,
+    "attainment": 85,
+    "byRegion": {
+      "NA": 807000,
+      "EMEA": 306000,
+      "APAC": 271000
+    },
+    "bySegment": {
+      "SMB": 231000,
+      "Mid-Market": 517000,
+      "Enterprise": 636000
+    }
+  }
+]

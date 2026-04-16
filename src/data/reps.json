@@ -1,0 +1,14 @@
+[
+  { "id": "rep-01", "name": "Sarah Chen", "team": "Enterprise", "region": "NA", "tenure": 4.2, "quarterlyQuota": 220000 },
+  { "id": "rep-02", "name": "Marcus Johnson", "team": "Enterprise", "region": "NA", "tenure": 3.1, "quarterlyQuota": 200000 },
+  { "id": "rep-03", "name": "Elena Rodriguez", "team": "Enterprise", "region": "EMEA", "tenure": 2.8, "quarterlyQuota": 180000 },
+  { "id": "rep-04", "name": "James O'Brien", "team": "Enterprise", "region": "EMEA", "tenure": 1.3, "quarterlyQuota": 180000 },
+  { "id": "rep-05", "name": "Priya Patel", "team": "Mid-Market", "region": "NA", "tenure": 3.5, "quarterlyQuota": 130000 },
+  { "id": "rep-06", "name": "David Kim", "team": "Mid-Market", "region": "NA", "tenure": 2.1, "quarterlyQuota": 120000 },
+  { "id": "rep-07", "name": "Sophie Laurent", "team": "Mid-Market", "region": "EMEA", "tenure": 2.9, "quarterlyQuota": 110000 },
+  { "id": "rep-08", "name": "Raj Krishnan", "team": "Mid-Market", "region": "APAC", "tenure": 1.8, "quarterlyQuota": 100000 },
+  { "id": "rep-09", "name": "Alex Turner", "team": "SMB", "region": "NA", "tenure": 1.5, "quarterlyQuota": 80000 },
+  { "id": "rep-10", "name": "Yuki Tanaka", "team": "SMB", "region": "APAC", "tenure": 2.4, "quarterlyQuota": 65000 },
+  { "id": "rep-11", "name": "Carlos Mendez", "team": "SMB", "region": "NA", "tenure": 0.8, "quarterlyQuota": 80000 },
+  { "id": "rep-12", "name": "Aisha Okafor", "team": "Enterprise", "region": "APAC", "tenure": 1.1, "quarterlyQuota": 160000 }
+]
